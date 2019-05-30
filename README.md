@@ -10,13 +10,13 @@ After completing this course, you will be able to solve real-world data mining p
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>
-<LI>
-<LI>
-<LI>
-<LI>
-<LI>
-<LI></LI></UL></DIV>
+<LI>Build any website layout using Bootstrap’s flexible grid system
+<LI>Explore the different Bootstrap plugins and use them in your “PACKT CMS” application to get a real-time effect
+<LI>Design efficient forms and style them to perfection, creating a lasting effect on your users
+<LI>Understand the intricacies of creating a dashboard page and create your own rather than using pre-built templates
+<LI>Work with tables in depth, from styling to making them responsive and using third-party plugins such as DataTables for advanced interaction control
+<LI>Make your application responsive by learning the general principles of responsiveness and reflecting them in your design
+<LI>Explore the newly introduced components in Bootstrap 4 and implement them in your current project</LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
